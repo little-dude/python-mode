@@ -25,7 +25,7 @@
 	branch = develop
 [submodule "submodules/pylama"]
 	path = submodules/pylama
-	url = https://github.com/fmv1992/pylama
+	url = https://github.com/little-dude/pylama
     branch = develop
     ignore = dirty
 [submodule "submodules/pylint"]
